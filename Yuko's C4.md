@@ -1,5 +1,3 @@
-
-
 ## Yuko's C4
 ### Chewy Chocolate CHunk Cookies
 
