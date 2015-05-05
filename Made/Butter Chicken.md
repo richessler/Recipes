@@ -8,25 +8,25 @@
 
 #### Chicken Marinade:
 
-	* 2.2 lbs (1 kg) boneless, skinless chicken breast cut in 1" - 2" cubes
-	* 2 tbsp lemon juice
-	* 2 cloves garlic, minced
-	* 1 tbsp garam masala
-	* 1 tsp kosher salt
+- 2.2 lbs (1 kg) boneless, skinless chicken breast cut in 1" - 2" cubes
+- 2 tbsp lemon juice
+- 2 cloves garlic, minced
+- 1 tbsp garam masala
+- 1 tsp kosher salt
 
 #### Sauce: 
 
-	* ¼ cup vegetable oil
-	* 2 ½ cups chopped onion (about 2 medium-large)
-	* 2 tbsp coarsely chopped garlic
-	* 2 tbsp Garam Masala
-	* 2 tsp paprika
-	* ¼ tsp cinnamon
-	* 2 tsp kosher salt, or to taste
-	* 2 cups diced no-salt-added canned tomatoes
-	* ¾ cup cream
-	* 2 tbsp butter
-	* Chopped cilantro, to garnish (optional)
+- ¼ cup vegetable oil
+- 2 ½ cups chopped onion (about 2 medium-large)
+- 2 tbsp coarsely chopped garlic
+- 2 tbsp Garam Masala
+- 2 tsp paprika
+- ¼ tsp cinnamon
+- 2 tsp kosher salt, or to taste
+- 2 cups diced no-salt-added canned tomatoes
+- ¾ cup cream
+- 2 tbsp butter
+- Chopped cilantro, to garnish (optional)
 
 #### Directions
 
