@@ -1,6 +1,6 @@
 ## Recipe by: Veronica Gutierrez
 ### Butter Chicken
-![alt text](../assets/images/butter_chicken.jpeg "Butter Chicken")
+![butter_chicken](https://github.com/richessler/Recipes/blob/master/assets/images/butter_chicken.jpeg "Butter Chicken")
 
 #### Ingredients
 
